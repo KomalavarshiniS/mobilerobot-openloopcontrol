@@ -89,7 +89,8 @@ if name == 'main':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
+![WhatsApp Image 2025-06-04 at 14 48 08_70e2d2ee](https://github.com/user-attachments/assets/14648f2f-3910-484d-9004-d8e686e773c7)
+
 
 
 ## MobileRobot Movement Video:
